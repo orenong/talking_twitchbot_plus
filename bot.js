@@ -5,8 +5,8 @@ const tmi = require('tmi.js');
 // Define configuration options
 const opts = {
   identity: {
-    username: "personnormalyesplus4", //personnormalyesplus
-    password: "oauth:iimdumyvtp4sl93prwx5hojuqlgh2n"
+    username: "", //personnormalyesplus
+    password: ""
   },
   channels: [
         // ""
