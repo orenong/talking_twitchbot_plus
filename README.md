@@ -27,8 +27,13 @@ all commands names are changeable on the script, these are the default names, th
 I recommend changing the names so other people will not have access to them
 
 !resetBot - clears the memoery of the bot and the settings
+
 !statusBot - prints usefull info about the bot status to the chat
+
 !fastBot - sets the bot to fast speed
+
 !normalBot - sets the bot to normal speed
+
 !slowBot - sets the bot to slow speed
+
 !memBot - prints the memory of the bot to the chat, usefull for debugging
