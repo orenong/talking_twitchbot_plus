@@ -1,4 +1,4 @@
-# talking twitchbot plus
+# Talking Twitchbot Plus
 A javascript bot for twitch that uses the chat like a human and communicates with other chatters
 
 # General
