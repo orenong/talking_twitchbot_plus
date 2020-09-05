@@ -3,13 +3,20 @@ A javascript bot for twitch that uses the chat like a human and communicates wit
 
 # General
 
-This bot can try to use the chat in twitch streams like a human.\n
-it will
+This bot can try to use the chat in twitch streams like a human.
+
+It will comment like other people, using previous comments and key words in chat to sound like a human
+
+In case people recognize that it's a bot, the bot will try to tell them that it is not a bot, and in case people response with "that's what a bot would say" or anything similar it will understand it and react accordingly.
+
+This bot is fun, and will not be a super realistic human like chatbot, use it in your own stream for fun 
 
 
 # Use cases
 The bot can theoretically be used to make artificial chat interaction in your chat, it will react to the amount of responses in your chat and will not chat by its own if there are no other people, but this use case is not recommended, this bot will NOT be human like enough and it's not a moral use.
+
 I recommend to use it as an enchantment to your stream, tell people it's a bot, or name it something with bot, and people will enjoy talking to it.
+
 **Do not** use the bot on other people's streams without their permission.
 
 
