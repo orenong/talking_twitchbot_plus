@@ -1,2 +1,7 @@
 # talking_twitchbot_plus
-a twitch bot that thinks he is human
+A javascript bot for twitch that uses the chat like a human and communicates with other chatters
+
+
+
+# Use cases
+a A javascript bot for twitch that uses the chat like a human and communicates with other chatters
